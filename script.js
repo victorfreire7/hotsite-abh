@@ -32,7 +32,7 @@ function currentSlide(index) {
 
 setInterval(() => {
     changeSlide(1);
-}, 5000);
+}, 7000);
 
 const statsSection = document.querySelector(".stats-section");
 const counters = document.querySelectorAll(".stat-number");
